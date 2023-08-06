@@ -1,0 +1,15 @@
+C:\Projects\Deco\DecoTablas\bin\Release\net6.0\DecoTablas.exe
+C:\Projects\Deco\DecoTablas\bin\Release\net6.0\DecoTablas.deps.json
+C:\Projects\Deco\DecoTablas\bin\Release\net6.0\DecoTablas.runtimeconfig.json
+C:\Projects\Deco\DecoTablas\bin\Release\net6.0\DecoTablas.dll
+C:\Projects\Deco\DecoTablas\bin\Release\net6.0\DecoTablas.pdb
+C:\Projects\Deco\DecoTablas\obj\Release\net6.0\DecoTablas.csproj.AssemblyReference.cache
+C:\Projects\Deco\DecoTablas\obj\Release\net6.0\DecoTablas.GeneratedMSBuildEditorConfig.editorconfig
+C:\Projects\Deco\DecoTablas\obj\Release\net6.0\DecoTablas.AssemblyInfoInputs.cache
+C:\Projects\Deco\DecoTablas\obj\Release\net6.0\DecoTablas.AssemblyInfo.cs
+C:\Projects\Deco\DecoTablas\obj\Release\net6.0\DecoTablas.csproj.CoreCompileInputs.cache
+C:\Projects\Deco\DecoTablas\obj\Release\net6.0\DecoTablas.dll
+C:\Projects\Deco\DecoTablas\obj\Release\net6.0\refint\DecoTablas.dll
+C:\Projects\Deco\DecoTablas\obj\Release\net6.0\DecoTablas.pdb
+C:\Projects\Deco\DecoTablas\obj\Release\net6.0\DecoTablas.genruntimeconfig.cache
+C:\Projects\Deco\DecoTablas\obj\Release\net6.0\ref\DecoTablas.dll
